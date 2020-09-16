@@ -1,11 +1,11 @@
-1)Paste this folder in C:\wamp64\www directory after installing wampserver in your Computer
+1)Paste this "Burger Heaven" folder in C:\wamp64\www directory after installing wampserver in your Computer. Otherwise it won't run. Run the project after turning wampserver on and run it via typing www.localhost.com. it will work after you turn your server on. After turning local-host on, go into Burger Heaven directory and project will automatically run.
 
-2)click on wampserver and setup your SQL database and tables
-The structure and names of the tables that I made are shown in pictures in this folder.
+2) Click on wampserver and setup your SQL database and tables
+   The structure and names of the tables that I made are shown in pictures in this folder.
 
-3) working of project has also been shown in video in seperate folder as well.
+3) Working of project has also been shown in video in seperate folder as well.
 
-4) copy paste this command in SQL option of table product
+4) Copy paste this command in SQL option of table product
 
 INSERT INTO `product`(`id`, `productName`, `price`, `image`) VALUES
 (1, 'Burger 1', 500, 'item1.jpg'),
@@ -17,7 +17,7 @@ INSERT INTO `product`(`id`, `productName`, `price`, `image`) VALUES
 (7, 'Steak 1', 1100, 'item7.jpg'),
 (8, 'Steak 2', 1000, 'item8.jpg');
 
- this will display all the pictures in products menu for ordering.
+This will display all the pictures in products menu for ordering.
 
 5) Signup, Login, Change Password, Ajax, Bootstrap, HTML/CSS, Jquery, PHP, Javascript, Sessions are used to make this project.
 
